@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292902459955",
+    "project_id": "web-app-moriah",
+    "storage_bucket": "web-app-moriah.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292902459955:android:2a42fb6796edd6dbada146",
+        "android_client_info": {
+          "package_name": "br.com.studiomoriah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC1fY-hHuSRZl6I57tazmECrgrjM2t_JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
